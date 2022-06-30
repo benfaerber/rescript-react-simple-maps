@@ -1,0 +1,28 @@
+{
+  "name": "rescript-react-simple-maps",
+  "version": "5.0.0",
+  "scripts": {
+    "build": "rescript build",
+    "start": "rescript build -w",
+    "clean": "rescript clean"
+  },
+  "keywords": [
+    "ReScript",
+    "ReactSimpleMaps"
+  ],
+  "author": "benfaerber",
+  "description": "Fast, small color manipulation and conversion",
+  "homepage": "https://github.com/mikaello/rescript-tinycolor",
+  "repository": "https://github.com/mikaello/rescript-tinycolor",
+  "bugs": "https://github.com/mikaello/rescript-tinycolor/issues",
+  "license": "MIT",
+  "devDependencies": {
+    "@glennsl/bs-jest": "0.7.0",
+    "rescript": "9.1.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-simple-maps": "^2.3.0"
+  }
+}
