@@ -12,12 +12,11 @@
   ],
   "author": "benfaerber",
   "description": "Fast, small color manipulation and conversion",
-  "homepage": "https://github.com/mikaello/rescript-tinycolor",
-  "repository": "https://github.com/mikaello/rescript-tinycolor",
-  "bugs": "https://github.com/mikaello/rescript-tinycolor/issues",
+  "homepage": "https://github.com/benfaerber/rescript-react-simple-maps",
+  "repository": "https://github.com/benfaerber/rescript-react-simple-maps",
+  "bugs": "https://github.com/benfaerber/rescript-react-simple-maps/issues",
   "license": "MIT",
   "devDependencies": {
-    "@glennsl/bs-jest": "0.7.0",
     "rescript": "9.1.4"
   },
   "dependencies": {

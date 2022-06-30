@@ -17,8 +17,7 @@
     }
   ],
   "suffix": ".bs.js",
-  "bs-dependencies": [],
-  "bs-dev-dependencies": ["@rescript/react"],
+  "bs-dependencies": ["@rescript/react"],
   "warnings": {
     "number": "+A-42-48",
     "error": "+A-3-44-102-103"
