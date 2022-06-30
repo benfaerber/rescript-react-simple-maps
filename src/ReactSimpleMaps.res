@@ -122,5 +122,5 @@ module Annotation = {
   ) => React.element = "Annotation"
 }
 
-@module("./geographyTestData.js")
-external geographyTestData: array<geographyData> = "default"
+@module
+external geographyTestData: geographyData = "./geographyTestData.json"
