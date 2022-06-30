@@ -4,7 +4,8 @@
   "scripts": {
     "build": "rescript build",
     "start": "rescript build -w",
-    "clean": "rescript clean"
+    "clean": "rescript clean",
+    "watch": "bsb -make-world -w"
   },
   "keywords": [
     "ReScript",
