@@ -12,7 +12,7 @@
     "ReactSimpleMaps"
   ],
   "author": "benfaerber",
-  "description": "Fast, small color manipulation and conversion",
+  "description": "Rescript wrapper for React Simple Maps",
   "homepage": "https://github.com/benfaerber/rescript-react-simple-maps",
   "repository": "https://github.com/benfaerber/rescript-react-simple-maps",
   "bugs": "https://github.com/benfaerber/rescript-react-simple-maps/issues",
