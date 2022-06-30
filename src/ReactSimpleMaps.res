@@ -123,4 +123,4 @@ module Annotation = {
 }
 
 @module
-external geographyTestData: geographyData = "./geographyTestData.json"
+external geographyTestData: array<geographyData> = "./geographyTestData.json"

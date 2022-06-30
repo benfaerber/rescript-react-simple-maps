@@ -33,7 +33,6 @@ open RescriptReactSimpleMaps
 @react.component
 let make = () => {
   open ReactSimpleMaps
-  open Js.Array
 
   let displayPosition = (pos: position) => {
     Js.log("Your position:")
@@ -54,7 +53,7 @@ let make = () => {
           <Sphere stroke="#FF5533" strokeWidth={2.} />
           {
             geographyTestData
-            |> map((geo) => {
+            |> Array.map((geo) => {
               <Geography
                 key={geo.rsmKey}
                 geography={geo}
