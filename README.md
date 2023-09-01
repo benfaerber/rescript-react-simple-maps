@@ -1,4 +1,4 @@
-# Rescript React Simple Maps
+# Rescript React Simple Maps [![](https://img.shields.io/npm/v/rescript-react-simple-maps.svg?logo=rescript)](https://www.npmjs.com/package/rescript-react-simple-maps)
 Rescript bindings for [React Simple Maps](https://github.com/zcreativelabs/react-simple-maps)
 
 ## Getting Started
